@@ -52,7 +52,7 @@ However, please let me know if you have a preferred way of interacting with othe
 [Aaron Reer](https://github.com/AaronReer)
 
 - Office hours: upon request
-- E-mail: `aaron.reer@uol.de`
+- E-mail: `aaron.reer@gi.de`
 - preferred mode of contact: via  e-mail
 
 ```{admonition} How to address one another?
