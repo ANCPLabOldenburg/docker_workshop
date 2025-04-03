@@ -54,12 +54,12 @@ However, please let me know if you have a preferred way of interacting with othe
 [Aaron Reer](https://github.com/AaronReer)
 
 - Office hours: upon request
-- E-mail: `aaron.reer@uol.de`
+- E-mail: `aaron.reer@gi.de`
 - preferred mode of contact: via  e-mail
 
 ```{admonition} How to address one another?
 :class: dropdown
-He/Him. When contacting me, please refrain from using honoraries and formal language, "Michael" or "you" is fine as long as the content is respectful, fair and constructive (I aim for the same when I reply).
+He/Him. When contacting me, please refrain from using honoraries and formal language, "Aaron" or "you" is fine as long as the content is respectful, fair and constructive (I aim for the same when I reply).
 However, please let me know if you have a preferred way of interacting with other folks, including how you would liked to be addressed, your pronouns and the level of formality.
 ```
 
